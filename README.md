@@ -39,7 +39,7 @@ Fee modality.
 | Room capacity                        | Price per day per person (MNX) | Whole week per person (MNX) |
 | ----------------------               | -------------------------------| --------------------------- |
 | Double room, 1 person                | $ 850                          | $ 5,100                     |
-| Double room, 2 people (sharin room)  | $ 425                          | $ 2,550                     |
+| Double room, 2 people (sharing room)  | $ 425                          | $ 2,550                     |
 
 <img src="imgs/rooms.png" class="img-responsive" alt="">
 
