@@ -12,7 +12,7 @@ You can find a photographic record of our past retreat in Twitter! @BioinfoCompl
 
 # Location
 
-The event will take place at [Hotel Hacienda el Marqués](http://elmarqueshacienda.com.mx/) ([Guanajuato Km. 11, 36263 Guanajuato, Gto.](https://goo.gl/maps/4Ai1HneigjXv45Am7?coh=178572&entry=tt)).
+The event will take place at [Hotel Hacienda el Marqués](http://elmarqueshacienda.com.mx/) ([Guanajuato Km. 11, 36263](https://goo.gl/maps/4Ai1HneigjXv45Am7?coh=178572&entry=tt)).
 
 <img src="imgs/hhem_2.png" class="img-responsive" alt="">
 
