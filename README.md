@@ -12,7 +12,7 @@ This event is organized by the [Bioinformatics and Complex Networks Lab](https:/
 
 The event will take place at [Hotel Hacienda el Marqués](http://elmarqueshacienda.com.mx/)([Guanajuato Km. 11, 36263 Guanajuato, Gto.](https://goo.gl/maps/4Ai1HneigjXv45Am7?coh=178572&entry=tt)).
 
-<img src="imgs/hhem_2.png" class="img-responsive" alt=""> </div>
+<img src="imgs/hhem_2.png" class="img-responsive" alt="">
 
 The hotel has multiple rooms however there are no single rooms available. The suggested room is a 2 bed-1 bath for two or more people. If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
 
@@ -29,7 +29,7 @@ A meaningful (*preliminary*) title should be given during registration to schedu
 
 Preliminary schedule of our scientific program. *Definitive information on the schedule will be given once the registration opens.*
 
-<img src="imgs/schedule_v1.png" class="img-responsive" alt=""> </div>
+<img src="imgs/schedule_v1.png" class="img-responsive" alt="">
 
 Further information on the workshops will be given at time. 
 
@@ -41,7 +41,7 @@ Fee modality.
 | Double room, 1 person                | $ 850                          | $ 5,100                     |
 | Double room, 2 people (sharin room)  | $ 425                          | $ 2,550                     |
 
-<img src="imgs/rooms.png" class="img-responsive" alt=""> </div>
+<img src="imgs/rooms.png" class="img-responsive" alt="">
 
 **Notes and considerations:** 
 
@@ -77,4 +77,4 @@ MSc student Luis F. Hernández,
 PhD Katia Aviña-Padilla.
 Feel free to contact us via mail if you have any inquiry: **bioinfoandcomplexnetworks@gmail.com**
 
-<img src="imgs/hhem_3.png" class="img-responsive" alt=""> </div>
+<img src="imgs/hhem_3.png" class="img-responsive" alt="">
