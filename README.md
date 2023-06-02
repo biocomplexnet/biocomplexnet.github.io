@@ -22,7 +22,7 @@ Feel free to contact us via mail: bioinfoandcomplexnetworks@gmail.com
 
 The event will take place at Hotel [Hacienda el Marqués](http://elmarqueshacienda.com.mx/) ([Guanajuato Km. 11, 36263 Guanajuato, Gto.](https://goo.gl/maps/4Ai1HneigjXv45Am7?coh=178572&entry=tt)).
 
-![alt text](https://github.com/biocomplexnet/biocomplexnet.github.io/blob/main/imgs/hhem_2.png)
+<img src="imgs/hhem_2.png" class="img-responsive" alt=""> </div>
 
 The hotel has multiple rooms. The suggested room is a 2 bed-1 bath.
 
@@ -38,7 +38,7 @@ A meaningful (preliminary) title should be given during registration to schedule
 
 This is a preliminary schedule of our scientific program. *Definitive information on the schedule will be given at time.* 
 
-![alt text](https://github.com/biocomplexnet/biocomplexnet.github.io/blob/main/imgs/schedule_v1.png)
+<img src="imgs/schedule_v1.png" class="img-responsive" alt=""> </div>
 
 # Workshop
 
@@ -85,4 +85,4 @@ Please [fill out this form](https://docs.google.com/forms/d/1nxQhFYKsHHbI6D79y58
 
 - **Internet:** WIFI is available in Hotel Hacienda el Marqués but might not cover all rooms equally.
 
-![alt text](https://github.com/biocomplexnet/biocomplexnet.github.io/blob/main/imgs/hhem_3.png)
+<img src="imgs/hhem_3.png" class="img-responsive" alt=""> </div>
