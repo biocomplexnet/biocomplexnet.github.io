@@ -75,7 +75,7 @@ Depending on the number of children and the size of the families (including pets
 
 # Registration
 
-Please fill [out this form](https://docs.google.com/forms/d/e/1FAIpQLSf8glFV3OccUpQjKYZLRkC9zLZ6owSyGr_CrpnPDIzTxiz3pA/viewform?usp=sf_link) to register your attendance. 
+Please [fill out this form](https://docs.google.com/forms/d/1nxQhFYKsHHbI6D79y58BdpDmJk9jXzfjUHP9NIx5BBU/edit?ts=6478dd40) to register your attendance. 
 
 **Deadline June 10th.**
 
