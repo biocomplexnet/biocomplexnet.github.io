@@ -1,6 +1,6 @@
 # Welcome to the info page for the 2nd *"Summer Retreat on Bioinformatics and Complex Networks"* 2023 !
 
-We are delighted to announce that this event will take place from **June 18th to June 24th of the current year 2023**, at Hotel Hacienda el Marques, located in the city of Guanajuato, Mexico.
+We are delighted to announce that this event will take place from **June 18th to June 24th of the current year 2023**, at Hotel Hacienda el Marqués, located in Guanajuato, Mexico.
 
 <img src="imgs/hhem_1.png" class="img-responsive" alt="">
 
@@ -14,20 +14,20 @@ The event will take place at [Hotel Hacienda el Marqués](http://elmarqueshacien
 
 <img src="imgs/hhem_2.png" class="img-responsive" alt="">
 
-The hotel has multiple rooms however there are no single rooms available. The suggested room is a 2 bed-1 bath for two or more people. If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
+The hotel has multiple rooms however there are no single rooms available. The suggested room is a 2 bed-1 bath for one, two or more people (up to 4). If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
 
 # Scientific Program & Workshops
 
-It is desirable for every participant to present their scientific work. This is an excellent opportunity to share your scientific expertise to connect with people interested in your topic. If you're a member of the Bioinformatics & Complex Networks Lab, your presentation is mandatory. 
+It is desirable for every participant to present their scientific work. This is an excellent opportunity to share your scientific expertise and connect with people interested in your topic. If you're a member of the Bioinformatics & Complex Networks Lab, your presentation is mandatory. 
 
-We will have two kinds of talks: 
+We have two kinds of talks: 
 
 - **Regular talk:** 10 minutes talk + 5 minutes questions
 - **Key talk (1 to 2 per day):** 25 minutes talk + 5 minutes questions 
 
 A meaningful (*preliminary*) title should be given during registration to schedule talk sessions. As expected, we will provide a video projector (with VGA & HDMI ports) and a laser pointer for the presentations. 
 
-Preliminary schedule of our scientific program. *Definitive information on the schedule will be given once the registration opens.*
+Preliminary schedule of our scientific program. *Definitive information on the schedule will be given soon.*
 
 <img src="imgs/schedule_v1.png" class="img-responsive" alt="">
 
@@ -39,7 +39,7 @@ Fee modality.
 | Room capacity                        | Price per day per person (MNX) | Whole week per person (MNX) |
 | ----------------------               | -------------------------------| --------------------------- |
 | Double room, 1 person                | $ 850                          | $ 5,100                     |
-| Double room, 2 people (sharing room)  | $ 425                          | $ 2,550                     |
+| Double room, 2 people | $ 425                          | $ 2,550                     |
 
 <img src="imgs/rooms.png" class="img-responsive" alt="">
 
@@ -60,7 +60,8 @@ We understand that each family's needs may vary based on the number of children 
 # Registration form
 
 Please [fill out this form](https://docs.google.com/forms/d/1nxQhFYKsHHbI6D79y58BdpDmJk9jXzfjUHP9NIx5BBU/edit?ts=6478dd40) to register your attendance. 
-**Deadline June 10th.**
+
+**Deadline for registration June 10th.**
 
 # Check-in
 
