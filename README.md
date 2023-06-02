@@ -2,7 +2,7 @@
 
 We are delighted to announce that this event will take place from **June 18th to June 24th of the current year, 2023,** at Hotel Hacienda el Marques, located in the city of Guanajuato, Mexico.
 
-![alt text](https://github.com/biocomplexnet/SummerRetreatBCNL/blob/main/imgs/hem_1.png)
+![alt text](https://github.com/biocomplexnet/biocomplexnet.github.io/blob/main/imgs/hhem_1.png)
 
 The **2nd Summer Retreat on Bioinformatics and Complex Networks** is a one-week experience of bioinformatics workshops, talks, and networking for a multidisciplinary scientific community sharing knowledge around biological topics.
 
@@ -22,7 +22,7 @@ Feel free to contact us via mail: bioinfoandcomplexnetworks@gmail.com
 
 The event will take place at Hotel [Hacienda el Marqués](http://elmarqueshacienda.com.mx/) ([Guanajuato Km. 11, 36263 Guanajuato, Gto.](https://goo.gl/maps/4Ai1HneigjXv45Am7?coh=178572&entry=tt)).
 
-![alt text](https://github.com/biocomplexnet/SummerRetreatBCNL/blob/main/imgs/hhem_2.png)
+![alt text](https://github.com/biocomplexnet/biocomplexnet.github.io/blob/main/imgs/hhem_2.png)
 
 The hotel has multiple rooms. The suggested room is a 2 bed-1 bath.
 
@@ -38,7 +38,7 @@ A meaningful (preliminary) title should be given during registration to schedule
 
 This is a preliminary schedule of our scientific program. *Definitive information on the schedule will be given at time.* 
 
-![alt text](https://github.com/biocomplexnet/SummerRetreatBCNL/blob/main/imgs/schedule_v1.png)
+![alt text](https://github.com/biocomplexnet/biocomplexnet.github.io/blob/main/imgs/schedule_v1.png)
 
 # Workshop
 
@@ -85,4 +85,4 @@ Please fill [out this form](https://docs.google.com/forms/d/e/1FAIpQLSf8glFV3Occ
 
 - **Internet:** WIFI is available in Hotel Hacienda el Marqués but might not cover all rooms equally.
 
-![alt text](https://github.com/biocomplexnet/SummerRetreatBCNL/blob/main/imgs/hhem_4.png)
+![alt text](https://github.com/biocomplexnet/biocomplexnet.github.io/blob/main/imgs/hhem_3.png)
