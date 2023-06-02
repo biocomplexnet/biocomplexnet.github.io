@@ -2,7 +2,7 @@
 
 We are delighted to announce that this event will take place from **June 18th to June 24th of the current year, 2023,** at Hotel Hacienda el Marques, located in the city of Guanajuato, Mexico.
 
-![alt text](https://github.com/biocomplexnet/biocomplexnet.github.io/blob/main/imgs/hhem_1.png)
+<img src="imgs/hhem_1.png" class="img-responsive" alt=""> </div>
 
 The **2nd Summer Retreat on Bioinformatics and Complex Networks** is a one-week experience of bioinformatics workshops, talks, and networking for a multidisciplinary scientific community sharing knowledge around biological topics.
 
