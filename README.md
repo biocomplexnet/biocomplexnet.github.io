@@ -1,7 +1,9 @@
 # Welcome to the info page for the 2nd *"Summer Retreat on Bioinformatics and Complex Networks"* 2023 !
 
 We are delighted to announce that this event will take place from **June 18th to June 24th of the current year 2023**, at Hotel Hacienda el Marques, located in the city of Guanajuato, Mexico.
+
 <img src="imgs/hhem_1.png" class="img-responsive" alt=""> </div>
+
 The **2nd Summer Retreat on Bioinformatics and Complex Networks** is a one-week experience of bioinformatics workshops, talks, and networking for a multidisciplinary scientific community sharing knowledge around biological topics.
 
 This event is organized by the [Bioinformatics and Complex Networks Lab](https://ira.cinvestav.mx/ingenieriagenetica/dra-maribel-hernandez-rosales/bioinformatica-y-redes-complejas/) located at CINVESTAV Irapuato, Guanajuato. 
@@ -9,7 +11,9 @@ This event is organized by the [Bioinformatics and Complex Networks Lab](https:/
 # Location
 
 The event will take place at [Hotel Hacienda el Marqués](http://elmarqueshacienda.com.mx/)([Guanajuato Km. 11, 36263 Guanajuato, Gto.](https://goo.gl/maps/4Ai1HneigjXv45Am7?coh=178572&entry=tt)).
+
 <img src="imgs/hhem_2.png" class="img-responsive" alt=""> </div>
+
 The hotel has multiple rooms however there are no single rooms available. The suggested room is a 2 bed-1 bath for two or more people. If you're traveling alone and interested in the possibility of sharing a room with another attendee, please inform us at the registration form.
 
 # Scientific Program & Workshops
@@ -23,7 +27,8 @@ We will have two kinds of talks:
 
 A meaningful (*preliminary*) title should be given during registration to schedule talk sessions. As expected, we will provide a video projector (with VGA & HDMI ports) and a laser pointer for the presentations. 
 
-Preliminary schedule of our scientific program. *Definitive information on the schedule will be given once the registration opens.* 
+Preliminary schedule of our scientific program. *Definitive information on the schedule will be given once the registration opens.*
+
 <img src="imgs/schedule_v1.png" class="img-responsive" alt=""> </div>
 
 Further information on the workshops will be given at time. 
