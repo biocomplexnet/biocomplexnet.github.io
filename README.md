@@ -74,10 +74,14 @@ Check-in will be at Hotel Hacienda el Marqués reception on from 3 pm to 6 pm. I
 - **Cash:**  Hotel Hacienda el Marqués takes credit/debit cards. 
 - **Internet:** WIFI is available in Hotel Hacienda el Marqués but might not cover all rooms equally.
 
-# 2023 Organizing comittee**
-MSc student Marisol Navarro-Miranda,
-MSc student Luis F. Hernández,
-PhD Katia Aviña-Padilla.
+# 2023 Organizing comittee
+
+MSc student Marisol Navarro-Miranda
+
+MSc student Luis F. Hernández
+
+PhD Katia Aviña-Padilla
+
 Feel free to contact us via mail if you have any inquiry: **bioinfoandcomplexnetworks@gmail.com**
 
 <img src="imgs/hhem_3.png" class="img-responsive" alt="">
