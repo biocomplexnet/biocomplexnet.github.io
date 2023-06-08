@@ -20,7 +20,7 @@ The hotel has multiple rooms however there are no single rooms available. The su
 
 # Scientific Program & Workshops
 
-It is desirable for every participant to present their scientific work. This is an excellent opportunity to share your scientific expertise and connect with people interested in your topic. If you're a member of the Bioinformatics & Complex Networks Lab, your presentation is mandatory. 
+It is desirable but no mandatory for every participant to present their scientific work. This is an excellent opportunity to share your scientific expertise and connect with people interested in your topic.
 
 We have two kinds of talks: 
 
@@ -46,7 +46,7 @@ Fee modality.
 <img src="imgs/rooms.png" class="img-responsive" alt="">
 
 **Notes and considerations:** 
-
+-It is not mandatory to attend the retreat all week, you can decide if it is more convenient for you to attend, for example, only one or two days.
 - The conference fee includes accommodation at Hotel Hacienda el Marqués and breakfast. 
 - Meals (lunch and dinner) are not included in the program fee. However, joint outings are organized to engage in group activities, but you are responsible for covering your own meal expenses during the program.
 - After your registration, you will receive an email with **payment details** in case you want to stay at Hotel Hacienda el Marqués. 
