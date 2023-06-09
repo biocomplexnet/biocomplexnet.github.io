@@ -50,7 +50,7 @@ Fee modality.
 - The conference fee includes accommodation at Hotel Hacienda el Marqués and breakfast. 
 - Meals (lunch and dinner) are not included in the program fee. However, joint outings are organized to engage in group activities, but you are responsible for covering your own meal expenses during the program.
 - After your registration, you will receive an email with **payment details** in case you want to stay at Hotel Hacienda el Marqués. 
-- The conference fee can only be refunded if the registration is canceled by the end of the registration deadline on June 7th (per e-mail). Otherwise, your payment will not be refunded.
+- The conference fee can only be refunded if the registration is canceled by the end of the registration deadline on June 9th (per e-mail). Otherwise, your payment will not be refunded.
 - While attendees are kindly asked to take care of their own travel arrangements, we want to assure you that we are here to assist you with any further instructions or guidance you may need upon your arrival at the hotel. Please don't hesitate to reach out to us.
 
 # Family
@@ -63,7 +63,7 @@ We understand that each family's needs may vary based on the number of children 
 
 Please [fill out this form](https://docs.google.com/forms/d/1nxQhFYKsHHbI6D79y58BdpDmJk9jXzfjUHP9NIx5BBU/edit?ts=6478dd40) to register your attendance. 
 
-**Deadline for registration June 7th.**
+**Deadline for registration June 9th 2023.**
 
 # Check-in
 
