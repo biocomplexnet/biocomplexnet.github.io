@@ -8,7 +8,7 @@ The **2nd Summer Retreat on Bioinformatics and Complex Networks** is a one-week 
 
 This event is organized by the [Bioinformatics and Complex Networks Lab](https://ira.cinvestav.mx/ingenieriagenetica/dra-maribel-hernandez-rosales/bioinformatica-y-redes-complejas/) located at CINVESTAV Irapuato, Guanajuato. 
 
-You can find a photographic record of our past retreat in Twitter! @BioinfoComplexN
+You can find a photographic record of our past retreat in our Twitter! @BioinfoComplexN
 
 # Location
 
