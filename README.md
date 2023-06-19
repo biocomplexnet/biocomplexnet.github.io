@@ -31,9 +31,9 @@ A meaningful (*preliminary*) title should be given during registration to schedu
 
 Preliminary schedule of our scientific program. *Definitive information on the schedule will be given soon.*
 
-<img src="imgs/schedule.png" class="img-responsive" alt="">
+<img src="imgs/schedule_img.png" class="img-responsive" alt="">
 
-<img src="imgs/talks.png" class="img-responsive" alt=""> 
+<img src="imgs/talks_img.png" class="img-responsive" alt=""> 
 
 # Fee
 Fee modality.
